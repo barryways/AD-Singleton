@@ -1,0 +1,45 @@
+# Carpeta de binarios generados
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de caché y respaldo
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Visual Studio 2017 y superiores
+.vs/
+
+# Carpetas específicas de ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Carpeta de caché de herramientas de nuget
+packages/
